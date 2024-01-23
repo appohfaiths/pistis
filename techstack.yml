@@ -1,0 +1,20 @@
+repo_name: appohfaiths/pistis
+report_id: bb8b6b5bc268e83805683a1d2e7e0038
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-23T13:35:46+00:00'
+requested_by: appohfaiths
+provider: github
+branch: master
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/appohfaiths/pistis
+  detection_source: Repo Metadata
